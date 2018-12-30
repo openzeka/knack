@@ -24,8 +24,8 @@ Knack
 
 
 **A Command-Line Interface framework**
-
-# The function returns the JSON output of commands sent to the invoke function instead of returns 0 or 1 as exit_code. 
+======================================
+**The function returns the JSON output of commands sent to the invoke function instead of returns 0 or 1 as exit_code.**
 
 Installation is easy via pip:
 
